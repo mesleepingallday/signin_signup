@@ -1,0 +1,52 @@
+#background {
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    grid-template-rows: 100px 1fr 3em;
+    background-color: rgba(78, 208, 169, 0.839);
+}
+
+#signup_form {
+    grid-column: 2/3;
+    grid-row: 2/3;
+    background-color: rgb(255, 255, 255);
+    border-radius: 18px;
+}
+
+#title {
+    font-size: 20px;
+    color: black;
+    font-weight: bolder;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding-top: 30px;
+    padding-bottom: 15px;
+    
+}
+
+.input {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 20px;
+}
+
+#button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+    padding-bottom: 5px;
+}
+
+.already_signup {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+    padding-bottom: 5px;
+}

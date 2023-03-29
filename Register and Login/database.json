@@ -1,0 +1,94 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "nguyenhoanghai@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": 2,
+      "email": "siplab@hust.edu.vn",
+      "password": "abcxyz"
+    },
+    {
+      "id": 3,
+      "email": "admin@admin.com",
+      "password": "admin"
+    },
+    {
+      "email": "umaruboi2k1@gmail.com",
+      "password": "1",
+      "id": 4
+    },
+    {
+      "email": "umaruboi2k1@gmail.com",
+      "password": "1",
+      "id": 5
+    },
+    {
+      "email": "umaruboi2k331@gmail.com",
+      "password": "MOE123456",
+      "id": 6
+    },
+    {
+      "email": "umaruboi2k331@gmail.com",
+      "password": "MOE123456",
+      "id": 7
+    },
+    {
+      "email": "umaruboi2k331@gmail.com",
+      "password": "MOE123456",
+      "id": 8
+    },
+    {
+      "email": "umaruboi2k331@gmail.com",
+      "password": "MOE123456",
+      "id": 9
+    },
+    {
+      "email": "umaruboi2k331@gmail.com",
+      "password": "MOE123456",
+      "id": 10
+    },
+    {
+      "email": "umaruboi2k331@gmail.com",
+      "password": "MOE123456",
+      "id": 11
+    },
+    {
+      "email": "umaruboi2k21@gmail.com",
+      "password": "MOE123456",
+      "id": 12
+    },
+    {
+      "email": "umaruboi2k@gmail.com",
+      "password": "12",
+      "id": 13
+    },
+    {
+      "email": "umaruboi21k@gmail.com",
+      "password": "123",
+      "id": 14
+    },
+    {
+      "email": "umaruboi221k@gmail.com",
+      "password": "123",
+      "id": 15
+    },
+    {
+      "email": "umaruboi2221k@gmail.com",
+      "password": "123",
+      "id": 16
+    },
+    {
+      "email": "umaruboi2k21@gmail.com3221",
+      "password": "1",
+      "id": 17
+    },
+    {
+      "email": "meomeo",
+      "password": "me",
+      "id": 18
+    }
+  ]
+}
